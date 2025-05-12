@@ -1,0 +1,22 @@
+[
+{"tokens": ["The", "patient", "was", "diagnosed", "with", "Alzheimer", "'s", "disease", "."], "ner_tags": [0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Cognitive", "deficits", "were", "observed", "in", "verbal", "memory", "and", "executive", "functioning", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 3, 0, 3, 3, 0]}
+{"tokens": ["The", "MRI", "revealed", "hippocampal", "atrophy", "in", "early-onset", "Alzheimer", "'s", "."], "ner_tags": [0, 0, 0, 3, 3, 0, 1, 1, 2, 0]}
+{"tokens": ["Aphasia", "symptoms", "suggested", "frontal", "lobe", "involvement", "."], "ner_tags": [1, 2, 0, 3, 3, 3, 0]}
+{"tokens": ["Working", "memory", "performance", "was", "below", "average", "."], "ner_tags": [3, 3, 3, 0, 0, 0, 0]}
+{"tokens": ["There", "was", "evidence", "of", "semantic", "dementia", "."], "ner_tags": [0, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["Verbal", "fluency", "was", "significantly", "impaired", "in", "patients", "with", "Parkinson", "'s", "disease", "."], "ner_tags": [3, 3, 0, 0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Amyloid", "plaques", "are", "a", "biomarker", "for", "Alzheimer", "'s", "disease", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["Executive", "dysfunction", "was", "noted", "in", "most", "cases", "."], "ner_tags": [3, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["MRI", "findings", "showed", "temporal", "lobe", "degeneration", "."], "ner_tags": [0, 0, 0, 3, 3, 3, 0]}
+{"tokens": ["Frontotemporal", "dementia", "was", "diagnosed", "in", "three", "patients", "."], "ner_tags": [1, 2, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Symptoms", "included", "apraxia", "and", "language", "impairment", "."], "ner_tags": [0, 0, 1, 0, 3, 3, 0]}
+{"tokens": ["The", "patient", "struggled", "with", "attention", "and", "concentration", "tasks", "."], "ner_tags": [0, 0, 0, 0, 3, 0, 3, 3, 0]}
+{"tokens": ["Neuropsychological", "assessment", "suggested", "early", "dementia", "."], "ner_tags": [0, 0, 0, 0, 1, 0]}
+{"tokens": ["Braak", "staging", "was", "used", "to", "evaluate", "Alzheimer", "'s", "progression", "."], "ner_tags": [0, 0, 0, 0, 0, 0, 1, 2, 2, 0]}
+{"tokens": ["EEG", "data", "showed", "slowing", "in", "posterior", "regions", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 3, 0]}
+{"tokens": ["Declarative", "memory", "deficits", "were", "recorded", "in", "the", "subject", "."], "ner_tags": [3, 3, 3, 0, 0, 0, 0, 0, 0]}
+{"tokens": ["Progressive", "aphasia", "was", "confirmed", "."], "ner_tags": [1, 2, 0, 0, 0]}
+{"tokens": ["Semantic", "processing", "difficulties", "are", "common", "in", "neurodegenerative", "disorders", "."], "ner_tags": [3, 3, 3, 0, 0, 0, 1, 2, 0]}
+{"tokens": ["The", "subject", "exhibited", "problems", "in", "visuospatial", "processing", "."], "ner_tags": [0, 0, 0, 0, 0, 3, 3, 0]}
+  ]
